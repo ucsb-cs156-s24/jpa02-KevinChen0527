@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s24/jpa02-KevinChen0527
 
-Deployed at: http://jpa02-kchen62.dokku-03.cs.ucsb.edu/
+Deployed at: http://jpa02-kevinchen0527.dokku-03.cs.ucsb.edu/
 
 
 # About this repo
